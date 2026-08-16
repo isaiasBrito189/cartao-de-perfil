@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.div_pai {
+    background-color: #d46419;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #b34212;
+    color: white;
+    border-radius: 20px;
+    width: 800px;
+    max-width: 90%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #d46419;
+    color: white;
+    border-radius: 16px;
+    border: none;
+    padding: 10px;
+    margin-top: 17px;
+}
+
+button:hover {
+    background-color: #af4d0c;
+    cursor: pointer;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+/* p, h1 {
+    padding: 10px;
+} */
+
+.nome {
+    font-family: "Caveat", cursive;
+}
+
+.paragrafo {
+    text-align: justify;
+    max-width: 550px;
+    line-height: 1.4;
+    padding: 10px;
+}
