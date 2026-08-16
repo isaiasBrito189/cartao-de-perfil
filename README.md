@@ -13,7 +13,7 @@ Um cartão de perfil desenvolvido com HTML e CSS como parte dos meus estudos em 
 - Flexbox
 - Google Fonts
 
-- ## 🌐 Acesse o projeto
+## 🌐 Acesse o projeto
 
 👉 [Clique aqui para visualizar o projeto](https://isaiasbrito189.github.io/cartao-de-perfil/)
 
