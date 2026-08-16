@@ -15,8 +15,7 @@ Um cartão de perfil desenvolvido com HTML e CSS como parte dos meus estudos em 
 
 ## 🛠️ Tecnologias
 
-- ![HTML5](https://shields.io)
-- ![CSS3](https://shields.io)
+[![Skills](https://skillicons.dev)](https://skillicons.dev)
 
 - ## 🌐 Acesse o projeto
 
